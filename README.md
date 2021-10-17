@@ -1,10 +1,10 @@
-# XXX collection
+# national-park-boundary collection
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/XXX/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/national-park-boundary/blob/main/LICENSE)
 
-A collection of XXX collected from YYY.
+A collection of national park boundaries administered by Natural England, and collected from ONS.
 
-The national dataset is in a format consistent with other Digital Land datasets as defined by the [ZZZ schema](https://digital-land.github.io/specification/schema/ZZZ/).
+The national dataset is in a format consistent with other Digital Land datasets as defined by the [national-park-boundary schema](https://digital-land.github.io/specification/schema/national-park-boundary/).
 
 # Collection
 
@@ -22,10 +22,6 @@ We recommend working in [virtual environment](http://docs.python-guide.org/en/la
     $ make makerules
     $ make init
     $ make collect
-
-# Nightly collection
-
-The collection is [updated nightly](https://github.com/digital-land/ZZZ/actions) by the [GitHub Action](.github/workflows/run.yml).
 
 # Building the national dataset
 

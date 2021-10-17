@@ -1,1 +1,4 @@
 pipeline,resource,pattern,value
+national-park,,WKT,geometry
+national-park,,npark18cd,national-park
+national-park,,npark18nm,name
