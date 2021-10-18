@@ -1,10 +1,11 @@
-# national-park-boundary collection
+# national-park collection
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/national-park-boundary/blob/main/LICENSE)
+[![Run pipeline](https://github.com/digital-land/national-park-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/national-park-collection/actions/workflows/run.yml)
 
 A collection of national park boundaries administered by Natural England, and collected from ONS.
 
-The national dataset is in a format consistent with other Digital Land datasets as defined by the [national-park-boundary schema](https://digital-land.github.io/specification/schema/national-park-boundary/).
+The national dataset is in a format consistent with other Digital Land datasets as defined by the [national-park schema](https://digital-land.github.io/specification/schema/national-park/).
 
 # Collection
 
