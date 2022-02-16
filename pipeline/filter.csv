@@ -1,2 +1,2 @@
-pipeline,resource,field,pattern
+dataset,resource,field,pattern
 national-park,,national-park,^[^E]
