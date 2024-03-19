@@ -1,4 +1,4 @@
-# national-park collection
+# national-park collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/national-park-boundary/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/national-park-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/national-park-collection/actions/workflows/run.yml)
